@@ -5,3 +5,15 @@
 
 ## Aula de funções:
   https://projetolaurinha.github.io/JS/funcoes/funcoes.html
+
+  ## Aula Saldo:
+  https://projetolaurinha.github.io/JS/aula03/aula03.html
+
+   ## Aula IMC1:
+  https://projetolaurinha.github.io/JS/imc_funcao01/imc.html
+
+  ## Aula IMC2:
+  https://projetolaurinha.github.io/JS/imc_funcao02/imc2.html
+
+  ## Aula Tabuada:
+  https://projetolaurinha.github.io/JS/tabuada/tabuada.html
