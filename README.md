@@ -20,4 +20,4 @@
 
   ## 4 BIMESTRE
 
-  https://projetolaurinha.github.io/JS/Site_OrientacaoObj-main
+  https://projetolaurinha.github.io/JS/
