@@ -20,4 +20,5 @@
 
   ## 4 BIMESTRE
 
-  https://projetolaurinha.github.io/JS/OB
+  https://projetolaurinha.github.io/JS/OB/index.html
+  
