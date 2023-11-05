@@ -1,0 +1,29 @@
+header{
+    margin-bottom: 10%;
+    background-color: black;
+}
+
+body{
+    background-color: #ffff;
+    
+}
+.responsivo{
+    width: 100%;
+}
+
+.abaixo{
+    margin-bottom: 2px;
+}
+
+p{
+color: #ffff;
+}
+
+h1{
+   color: #ffff;
+}
+
+.footer{
+    margin-top: 30%;
+    text-align: center;
+}
